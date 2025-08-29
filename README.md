@@ -162,7 +162,7 @@ This dashboard was developed as part of an academic assignment focused on data v
 - **Email**: karanparekh2298@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/karan-parekh-13819b175/
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Our World Data for comprehensive military expenditure data
 - Our World Data for Human Development Index datasets
